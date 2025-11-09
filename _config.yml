@@ -1,0 +1,11 @@
+title: "Ahmad Musayev"
+description: "AI Student | Medical AI & Machine Learning Enthusiast"
+theme: minima
+author: Ahmad Musayev
+email: your_email@example.com
+github_username: MusayevAhmad
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
