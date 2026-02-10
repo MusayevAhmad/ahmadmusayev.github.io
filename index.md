@@ -5,17 +5,29 @@ title: About Me
 
 # 👋 Hello, I'm Ahmad Musayev
 
-I am a Bachelor’s student in **Artificial Intelligence at VU Amsterdam** with a strong technical background and a primary focus on the **application of AI within the medical domain**.  
+I am an **aspiring Data Scientist** and Bachelor’s student in **Artificial Intelligence at VU Amsterdam** with strong foundations in **AI** and **Machine Learning**.
 
-My academic and professional interests lie in leveraging artificial intelligence to advance healthcare through **medical data analysis**, **diagnostic support**, and **intelligent systems** that improve patient outcomes and healthcare efficiency.
+I enjoy turning raw data into insights and building practical ML solutions, especially in areas where intelligent systems can create meaningful real-world impact.
 
-In addition to my focus on medical AI, I am deeply interested in **bioinformatics**, **health informatics**, **machine learning**, and **deep learning**.  
+## 🔎 Interests
+- Machine Learning & Deep Learning
+- Applied AI in Healthcare and Bioinformatics
+- Data Analysis, Visualization, and Storytelling
+- Natural Language Processing (NLP)
 
-My technical skill set includes:
-- Machine Learning & Data Science  
-- Text Mining & Natural Language Processing (NLP)  
-- Python, scikit-learn, pandas, matplotlib  
+## 🧠 Machine Learning Skills
+- Data preprocessing, feature engineering, and model evaluation
+- Supervised learning (classification, regression)
+- Unsupervised learning (clustering, dimensionality reduction)
+- Model validation and performance optimization
 
-Dedicated, inquisitive, and collaborative — I’m motivated to contribute to research and projects at the intersection of AI and healthcare.
+## 🛠️ Libraries & Tools
+- **Python**
+- **NumPy**, **pandas**
+- **scikit-learn**
+- **matplotlib**, **seaborn**
+- **Jupyter Notebook**
+
+I’m dedicated, curious, and collaborative — always looking for opportunities to learn, build, and contribute to impactful data and ML projects.
 
 [View My Projects →](./projects.md)
